@@ -2,6 +2,7 @@ package Listener;
 
 import org.testng.annotations.Test;
 
+@Test
 public class a {
 		@Test
 	public void a1(){
@@ -9,5 +10,5 @@ public class a {
 			
 			System.out.println("hbhjksdcfskh");
 			}
-	}
 
+}
